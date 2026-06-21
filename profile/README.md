@@ -51,14 +51,6 @@ Before reporting an issue, check the [FAQ](https://bookracy.org/docs/faq), the [
 [![bookracy/frontend - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bookracy&repo=frontend&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/bookracy/frontend/)
 [![bookracy/frontend-lite - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bookracy&repo=frontend-lite&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/bookracy/frontend-lite/)
 
-### Credits
-
-Thank you to everyone who has contributed to Bookracy!
-
-<a href="https://github.com/bookracy/frontend/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=bookracy/frontend" alt="Bookracy contributors" title="Bookracy contributors" width="800"/>
-</a>
-
 ### Disclaimer
 
 The developer(s) of this project have no affiliation with the content providers, and this library hosts no copyrighted material.
